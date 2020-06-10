@@ -11,6 +11,8 @@
 <p align="center">
   <img src="/readme-img/home-page-app.jpg" height="720" width="320" >
   <img src="/readme-img/no-selected-points-page-app.jpg" height="720" width="320" >
+
+<p align="center">
   <img src="/readme-img/selected-points-page-app.jpg" height="720" width="320" >
   <img src="/readme-img/detail-page-app.jpg" height="720" width="320" >
   
